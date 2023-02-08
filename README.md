@@ -13,5 +13,6 @@ CLEARING COMMAND HISTORY EFFECTIVELY AND PERMANENTLY
 (d)Another Method we can use is by permanently deleting the command history storing files using shred tool.This tool comes pre installed on Your Kali Linux machine.Open the command line on the root directory and type the relevant command here according to the shell you are using. 'shred -vfzu .zsh_history' or 'shred -vfzu .bash_history'
 
 
-DISCLAIMER: USE THIS INFORMATION FOR EDUCATIONAL PURPOSES ONLY...AND THEN YOU CAN USE YOUR EDUCATION IN ANY WAY..
+DISCLAIMER: USE THIS INFORMATION FOR EDUCATIONAL PURPOSES ONLY.AND THEN YOU CAN USE YOUR EDUCATION IN ANY WAY.
 I WILL NOT BE HELD RESPONSIBLE FOR ANY 
+#ethicalhacking #cybersecurity
